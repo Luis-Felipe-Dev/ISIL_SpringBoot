@@ -4,13 +4,13 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-
 @Entity
-public class Category {
-
+public class Tema {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long Id;
+
+    private String description;
 
     public Long getId() {
         return Id;
@@ -27,7 +27,4 @@ public class Category {
     public void setDescription(String description) {
         this.description = description;
     }
-
-    private String description;
-
 }
