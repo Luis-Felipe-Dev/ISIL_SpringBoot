@@ -1,4 +1,4 @@
-package org.example.apringdatajpacourse;
+package org.example.springdatajpacourse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package org.example.apringdatajpacourse.controller;
+package org.example.springdatajpacourse.controller;
 
-import org.example.apringdatajpacourse.entity.Customer;
-import org.example.apringdatajpacourse.service.CustomerService;
+import org.example.springdatajpacourse.entity.Customer;
+import org.example.springdatajpacourse.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

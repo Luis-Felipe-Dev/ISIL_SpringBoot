@@ -1,7 +1,7 @@
-package org.example.apringdatajpacourse.service;
+package org.example.springdatajpacourse.service;
 
-import org.example.apringdatajpacourse.entity.Customer;
-import org.example.apringdatajpacourse.repository.CustomerRepository;
+import org.example.springdatajpacourse.entity.Customer;
+import org.example.springdatajpacourse.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

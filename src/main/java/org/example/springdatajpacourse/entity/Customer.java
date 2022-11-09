@@ -1,4 +1,4 @@
-package org.example.apringdatajpacourse.entity;
+package org.example.springdatajpacourse.entity;
 
 import javax.persistence.*;
 import java.util.Date;

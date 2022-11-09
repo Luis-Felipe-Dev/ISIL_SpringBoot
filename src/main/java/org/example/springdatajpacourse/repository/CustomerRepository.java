@@ -1,6 +1,6 @@
-package org.example.apringdatajpacourse.repository;
+package org.example.springdatajpacourse.repository;
 
-import org.example.apringdatajpacourse.entity.Customer;
+import org.example.springdatajpacourse.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
